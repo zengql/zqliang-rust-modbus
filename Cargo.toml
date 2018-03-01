@@ -1,0 +1,6 @@
+[package]
+name = "modbus"
+version = "0.1.0"
+authors = ["zqliang <zengzqlliang@sina.com>"]
+
+[dependencies]
